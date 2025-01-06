@@ -43,7 +43,7 @@ This package contains protocol requests, responses, and event models, along with
 ---
 
 ## 📙 TON Connect UI
-- **GitHub**: [link](https://github.com/ton-connect/sdk/tree/main/packages/ui)
+- **GitHub**: [link](t.me/mxnstrixx777/ton-connect/sdk/tree/main/packages/ui)
 - **npm**: [link](https://www.npmjs.com/package/@tonconnect/ui)
 - **API Documentation**: [link](https://ton-connect.github.io/sdk/modules/_tonconnect_ui.html)
 
